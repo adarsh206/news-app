@@ -1,3 +1,28 @@
+# News App:
+Created a simple news app with the help of ReactJs and Bootstrap.
+
+# Description:
+
+1. Created a simple news app with the help of ReactJs and bootstrap.
+2. In this you can see the latest news.
+3. there is also 5 category like sports, enterntainment, health, science, technology to see the respective category news.
+4. other than one main page is there to see the latest news which is mixed news of all catogeries.
+5. if you want to read the whole news then simply click on the read more button it will take you to the main page of the news where you can see and read the whole news.
+6.  every time you refresh a page it will show you the latest news if any new news will be there.
+7.  it is present in the grid view for the better user experience.
+8.  if you want to read more news then simply scroll down the mouse it will start showing you more news.
+
+
+# How to use this project:
+
+1. first download this repository into your local system.
+2. then open in any code editor like vs code.
+3. then generate you apikey from this site(https://newsapi.org/) and place it in your apikey variable in .env file and save it.
+4. after that run in terminal by typing npm run dev and it will give you some link copy that link.
+5. and run on any browser it will start showing you the latest news.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
