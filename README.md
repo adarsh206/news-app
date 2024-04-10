@@ -12,6 +12,12 @@ Created a simple news app with the help of ReactJs and Bootstrap.
 7.  it is present in the grid view for the better user experience.
 8.  if you want to read more news then simply scroll down the mouse it will start showing you more news.
 
+# Images:
+
+![image](https://github.com/adarsh206/news-app/assets/76390366/41f8409c-b04b-487a-aab9-9a67917d02df)
+![image](https://github.com/adarsh206/news-app/assets/76390366/8618999f-3a4d-4d22-87ef-988f69cee793)
+![image](https://github.com/adarsh206/news-app/assets/76390366/7aa3ad6c-6cc1-46b0-9750-ee7bb61f9868)
+
 
 # How to use this project:
 
